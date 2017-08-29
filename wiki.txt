@@ -1,0 +1,47 @@
+1. What are the three requirements for completing this course?
+
+ 1) Homework submission needs to be at 80% or higher
+ 2) Attendance must be consistent (please see the Attendance Policy)
+ 3) All unit projects need be submitted and presented to the instructional team and should meet project rubric expectations
+
+2. At what URL can you find a series of videos covering the terminal, created by one of GA's senior instructors?
+
+ https://www.youtube.com/playlist?list=PLdnONIhPScSToZztXRHyKZTQEsE30luMx
+
+3. What book by Douglas Crockford is on our recommended reading list?
+
+ Javascript the Good Parts
+
+4. According to our Git style guide, when writing the detailed description of a commit in its commit message, what three types of things are most important to mention?
+
+ It should explain why the change is needed, how it addresses the issue and what side-effects it might have.
+
+5. What does a bug report need to have before it can be submitted to the bug journal?
+
+ A copy of the error message, a copy of the code, and a paragraph describing the bug.
+
+6. There are three Git tutorials referenced in the Wiki. What are they?
+
+ Atlassian Git Tutorials https://www.atlassian.com/git/tutorials
+ Git Documentation  https://git-scm.com/documentation
+ Git Cheatsheet https://github.com/ATL-WDI-Curriculum/atl-wdi/wiki/Git-Cheatsheet
+ ^ I’m not sure if these count as “tutorials”
+
+7. List at least two basic UI styling tips that will help your projects look good.
+
+ 1) Don’t use true black or true white in text, use dark grey and light grey. 
+ 2) Use whitespace consistently
+
+8. What is the maximum number of absences a student can have, and how many 'tardies' are equal to an absence?
+
+ 2 absences, and 2 tardies is equal to 1 absence
+
+9. Where can you find a directory of publicly-accessible APIs? Give at least one URL.
+
+ https://www.programmableweb.com/apis/directory
+
+10. What two holidays will we have during this course (not counting the long winter break)?
+
+ Labor Day and Halloween
+
+Comfort Score: 3
